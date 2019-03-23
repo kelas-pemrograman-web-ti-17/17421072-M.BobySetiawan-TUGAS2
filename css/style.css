@@ -1,0 +1,41 @@
+@import url('https://font.googleapis.com/css?family=Roboto');
+.btn{
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    padding: 2px 6px 2px 6px;
+    border: 2px solid white;
+    border-radius:2px ;
+}
+.btn2{
+    text-decoration: none;
+    background-color: orange;
+    color: white;
+    padding: 2px 6px 2px 6px;
+    border: 2px solid white;
+    border-radius:2px ;
+
+}
+.btn3{
+    text-decoration: none;
+    background-color: green;
+    color: white;
+    padding: 2px 6px 2px 6px;
+    border: 2px solid white;
+    border-radius:2px ;
+
+}
+.h{
+    position: absolute;
+    margin-left: 380px;
+    margin-right: 500px;
+    margin-bottom: 500px;
+    margin-top: 100px;
+
+}
+body{
+
+    color: white;
+    background: url('../images/bg.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
